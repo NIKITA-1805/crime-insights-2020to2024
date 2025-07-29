@@ -38,6 +38,7 @@ This project focuses on exploring:
 
 ## 🚧 Work in Progress
 I am still exploring the dataset and understanding it. Feel free to give suggestions for exploration and analysis.
+Please reach out on 
 [LinkedIn](https://www.linkedin.com/in/nikita-jadhao-40450b286/)
 
 
